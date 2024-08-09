@@ -1,0 +1,33 @@
+email
+invalidemail
+@missingusername.com
+missingatsign.com
+missingdomain@.com
+user@domain..com
+user@.com
+user@domain
+"user@domain,com"
+user@domain space.com
+user@domain.c
+user@-domain.com
+user@domain..com
+user@domain.-com
+user@.domain.com
+user@domain..subdomain.com
+user@sub_domain.com
+user@domain.com@
+user@@domain.com
+user@domain.com.
+@domain.com
+user@.com
+user@domain.com user@domain.com
+user@domain..com
+userdomain.com
+@.com
+@domain
+@.com
+user@domain..com
+user@com
+"""quotedemail@domain.com"""
+"user@domain,com"
+""

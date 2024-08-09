@@ -1,0 +1,12 @@
+email,password,username
+PS4z6zRpl9mail.com,dsMg8siaAa+1,PS4z6zRpl9
+PS4z6zRpl9@mail.com,wrongpassword,PS4z6zRpl9
+,dsMg8siaAa+1,PS4z6zRpl9
+PS4z6zRpl9@mail.com,,PS4z6zRpl9
+PS4z6zRpl9!@mail.com,dsMg8siaAa+1,PS4z6zRpl9
+PS4z6zRpl9@mail.com,dsMg8siaAa+1!,PS4z6zRpl9
+PS4z6zRpl9 @mail.com,dsMg8siaAa+1,PS4z6zRpl9
+PS4z6zRpl9@mail.com,ds Mg8siaAa+1,PS4z6zRpl9
+PS4z6zRpl9@.com,dsMg8siaAa+1,PS4z6zRpl9
+PS4z6zRpl9@mail.com,short,PS4z6zRpl9
+PS4z6zRpl9@mail.com,averyveryverylongpasswordthatexceedsthenormallength,PS4z6zRpl9
