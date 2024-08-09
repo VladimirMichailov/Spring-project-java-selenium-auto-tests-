@@ -108,7 +108,7 @@ public class RegistrationPage extends BasePage{
         }
     }
 
-    public void writeInalidDataToCSV(File file, List<String[]> invalidLoginData) {
+    public void writeInvalidDataToCSV(File file, List<String[]> invalidLoginData) {
         boolean fileExists = file.exists();
 
         try (FileWriter out = new FileWriter(file, true); // Open in append mode
